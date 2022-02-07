@@ -25,7 +25,7 @@ fun()
 
 ## Output:
 ![gcd of two number](gcd.png)
-
+![output](sar1.png)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
